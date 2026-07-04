@@ -10,7 +10,7 @@ body {
     align-items: center;
 }
 
-p {
+.wiki-text {
     color: rgb(242,156,56);
     text-shadow:
     -1px -1px 0 black,
@@ -24,4 +24,11 @@ p {
     1px  1px 0 black;
     font-size: 2vw;
     font-family:sans-serif;
+}
+
+.syobonkz-title {
+    font-size: 5vw;
+    text-align: left;
+    align-self: start;
+    padding-left: 3.5vw;
 }
