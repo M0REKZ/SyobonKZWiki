@@ -6,5 +6,5 @@ filename: index.md
 
 Welcome to SyobonKZ Wiki!
 
-Pages:
-* [test page](pages/test.md)
+Enemies:
+* [Evil Cloud](pages/evil_cloud.md)
