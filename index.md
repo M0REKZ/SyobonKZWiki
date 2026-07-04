@@ -1,7 +1,8 @@
 ---
 title: SyobonKZ Wiki
 layout: syobonkz_wiki_page
-filename: README.md
+filename: index.md
+permalink: index.html
 --- 
 
 Welcome to SyobonKZ Wiki!
