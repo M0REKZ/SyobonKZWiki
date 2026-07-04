@@ -12,11 +12,11 @@ filename: evil_cloud.md
   </tr>
   <tr>
     <td>Sprite</td>
-    <td><img src="../images/evil_cloud.png"></img></td>
+    <td><img src="../images/evil_cloud.png"></td>
   </tr>
   <tr>
-    <td>First apparition</td>
-    <td>30</td>
+    <td>First appearance</td>
+    <td>Syobon Action</td>
   </tr>
 </table>
 
