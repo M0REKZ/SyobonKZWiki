@@ -15,16 +15,6 @@ h1 {
     text-decoration: underline;
 }
 
-table {
-  width: max-content;
-  min-width: 100%;
-}
-
-th,
-td {
-  white-space: nowrap;
-}
-
 th {
     background:#1b1b1b;
 }
