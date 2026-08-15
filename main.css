@@ -11,8 +11,12 @@ body {
 }
 
 h1 {
-    color: rgb(167, 103, 30);
+    /*color: rgb(167, 103, 30);*/
     text-decoration: underline;
+}
+
+table {
+    box-shadow: 0px 0px #1b1b1b;
 }
 
 th {
