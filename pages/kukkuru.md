@@ -42,6 +42,6 @@ He does not move, but will kill syobon when touched.
 
 * ```？```
 
-## Trivia
+## Other Notes
 
 * This enemy is missing in Super Syobon

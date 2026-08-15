@@ -43,6 +43,7 @@ When the normal or super jien touch a mushroom, they become the big one
 |State/Type|Sprite|
 |-----|------|
 |Normal |![](../images/ball.png)|
+|Normal (Super Syobon)|![](../images/ball_super_syobon.png)|
 |Shell|![](../images/shell_ball.png)|
 |Shell (Super Syobon)|![](../images/shell_ball_super_syobon.png)|
 |Shell (Stomped)|![](../images/shell.png)|

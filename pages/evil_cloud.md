@@ -38,6 +38,6 @@ In code comments it is just named "Cloud", "Cloud Enemy" or "Stealth cloud", but
 
 * ```うめぇ!!```
 
-## Trivia
+## Other Notes
 
 * This enemy is missing in Super Syobon
