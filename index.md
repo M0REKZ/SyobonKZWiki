@@ -11,5 +11,5 @@ Welcome to SyobonKZ Wiki!
 Enemies:
 
 * [Evil Cloud](pages/evil_cloud.md)
-* [Jisaku Jien](pages/ball.md)
+* [Jisaku Jien](pages/jien.md)
 * [Kukkuru](pages/kukkuru.md)
