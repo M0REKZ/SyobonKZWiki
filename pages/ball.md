@@ -28,7 +28,7 @@ filename: ball.md
 
 Syobon Action enemy, appears since the original game.
 
-It is based on [Jisaku Jien](https://namelessrumia.heliohost.org/w/doku.php?id=jisaku_jien) 2ch character, which has Molalla's face
+It is based on [Jisaku Jien](https://web.archive.org/web/20260503051045/https://namelessrumia.heliohost.org/w/doku.php?id=jisaku_jien) 2ch character, which has Molalla's face
 
 In code comments it's named "Enemy", "Shell Enemy" or "Super Jien", people also just call it "Goomba"
 
