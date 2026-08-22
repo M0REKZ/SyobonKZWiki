@@ -1,7 +1,7 @@
 ---
 title: Jisaku Jien
 layout: syobonkz_wiki_page
-filename: ball.md
+filename: jien.md
 --- 
 
 # Jisaku Jien
