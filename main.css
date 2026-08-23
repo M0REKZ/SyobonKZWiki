@@ -27,6 +27,21 @@ th {
     background:#1b1b1b;
 }
 
+/* Table width fix override */
+@media screen and (max-width: 800px) {
+    .post-content table {
+        display: table !important;
+        width: max-content !important;
+        min-width: 100% !important;
+        max-width: none !important;
+        overflow: visible !important;
+    }
+
+    .post-content {
+        overflow-x: auto;
+    }
+}
+
 /* SyobonKZ style text */
 .wiki-text {
     color: rgb(242,156,56);
