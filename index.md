@@ -8,8 +8,14 @@ Welcome to SyobonKZ Wiki!
 
 [SyobonKZ Homepage](https://m0rekz.github.io/SyobonKZ/)
 
-Enemies:
+Syobon Action games:
+
+* [Shobon's Action]()
+* [Super Shobon]()
+* [Neko Game]()
+
+Characters:
 
 * [Evil Cloud](pages/evil_cloud.md)
-* [Jisaku Jien](pages/jien.md)
+* [Jien (Jisaku Jien)](pages/jien.md)
 * [Kukkuru](pages/kukkuru.md)

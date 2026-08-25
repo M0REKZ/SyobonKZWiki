@@ -4,11 +4,11 @@ layout: syobonkz_wiki_page
 filename: jien.md
 --- 
 
-# Jisaku Jien
+# Jien (Jisaku Jien)
 
 <table align="right">
   <tr>
-    <th colspan="2">Jisaku Jien</th>
+    <th colspan="2">Jien (Jisaku Jien)</th>
   </tr>
   <tr>
     <td>Sprite</td>
