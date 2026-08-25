@@ -16,6 +16,7 @@ Syobon Action games:
 
 Characters:
 
+* [Defrag-san](pages/defrag.md)
 * [Evil Cloud](pages/evil_cloud.md)
 * [Jien (Jisaku Jien)](pages/jien.md)
 * [Kukkuru](pages/kukkuru.md)
