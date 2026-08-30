@@ -10,7 +10,7 @@ filename: index.md
 
 ## Syobon Action games:
 
-* [Shobon no Action]()
+* [Shobon Action]()
 * [Super Shobon]()
 * [Neko Game]()
 
@@ -21,3 +21,7 @@ filename: index.md
 * [Jien (Jisaku Jien)](pages/jien.md)
 * [Kukkuru](pages/kukkuru.md)
 * [Nyassun](pages/nyassun.md)
+
+## Other:
+
+* [Items](pages/items.md)
