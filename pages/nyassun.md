@@ -26,7 +26,7 @@ Syobon Action enemy, appears since the original game.
 
 The exact origin of this character is unsure, but in code comments it's named "Nyassun" (ニャッスン), which seems to be a transformation of the name of Super Mario "Dossun" (ドッスン) that adds "Nya" (a cat "Meow") at the start instead, being a cat version of the same enemy.
 
-A character with a similar face can be found in [The Big Adventure of Owata's Life](), but it is not a cat and can't know if the character is related somehow.
+A character with a similar face can be found in [The Big Adventure of Owata's Life](), but it is not a cat and still don't know if the character is related somehow.
 
 ## Behavior
 
