@@ -13,7 +13,7 @@ filename: defrag.md
   <tr>
     <td>Sprite</td>
     <td>
-      no image (for now)
+      <img src="../images/defrag.png">
     </td>
   </tr>
   <tr>
@@ -36,6 +36,10 @@ When the player touches it, Defrag will grab the player and throw it to the righ
 
 |State/Type|Sprite|
 |-----|------|
+|Normal|<img src="../images/defrag.png">|
+|Holding|<img src="../images/defrag_2.png">|
+|Normal (Super Syobon)|<img src="../images/defrag_super_shobon_1.png">|
+|Holding (Super Syobon)|<img src="../images/defrag_super_shobon_2.png">|
 
 ## Messages
 
