@@ -10,7 +10,7 @@ Welcome to SyobonKZ Wiki!
 
 Syobon Action games:
 
-* [Shobon's Action]()
+* [Shobon no Action]()
 * [Super Shobon]()
 * [Neko Game]()
 
@@ -20,3 +20,4 @@ Characters:
 * [Evil Cloud](pages/evil_cloud.md)
 * [Jien (Jisaku Jien)](pages/jien.md)
 * [Kukkuru](pages/kukkuru.md)
+* [Nyassun](pages/nyassun.md)
