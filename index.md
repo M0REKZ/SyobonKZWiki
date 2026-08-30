@@ -4,17 +4,17 @@ layout: syobonkz_wiki_page
 filename: index.md
 --- 
 
-Welcome to SyobonKZ Wiki!
+## Welcome to the SyobonKZ Wiki!
 
 [SyobonKZ Homepage](https://m0rekz.github.io/SyobonKZ/)
 
-Syobon Action games:
+## Syobon Action games:
 
 * [Shobon no Action]()
 * [Super Shobon]()
 * [Neko Game]()
 
-Characters:
+## Characters:
 
 * [Defrag-san](pages/defrag.md)
 * [Evil Cloud](pages/evil_cloud.md)
