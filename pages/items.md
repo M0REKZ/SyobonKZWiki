@@ -46,11 +46,11 @@ Can be collected, but it's useless (except for Syobon Action 5, since a level re
 
 # Sword
 
-# Shobon Action 1
+## Shobon Action 1
 
 Found at the end of level 1-4, will break the bridge where Molalla is and trigger a walking animation, however Shobon will be inevitably killed by [Kukkuru](kukkuru.md) since you can't dodge him in the walking animation.
 
-# Shobon Action 2
+## Shobon Action 2
 
 Found at the end of level 2-4, behaves similar to Shobon Action 1, but instead it will finish the game and trigger credits.
 
