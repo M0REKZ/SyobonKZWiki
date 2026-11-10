@@ -18,11 +18,11 @@ filename: defrag.md
   </tr>
   <tr>
     <td>First appearance</td>
-    <td>Syobon Action</td>
+    <td>Shobon Action</td>
   </tr>
 </table>
 
-Syobon Action enemy, appears since the original game.
+Shobon Action enemy, appears since the original game.
 
 It is based on [Defrag-san](https://web.archive.org/web/20260316054641/https://namelessrumia.heliohost.org/w/doku.php?id=defrag-san) 2ch character, which was usually used for art where he fixes text artworks or malformed words.
 
@@ -38,8 +38,8 @@ When the player touches it, Defrag will grab the player and throw it to the righ
 |-----|------|
 |Normal|<img src="../images/defrag.png">|
 |Holding|<img src="../images/defrag_2.png">|
-|Normal (Super Syobon)|<img src="../images/defrag_super_shobon_1.png">|
-|Holding (Super Syobon)|<img src="../images/defrag_super_shobon_2.png">|
+|Normal (Super Shobon)|<img src="../images/defrag_super_shobon_1.png">|
+|Holding (Super Shobon)|<img src="../images/defrag_super_shobon_2.png">|
 
 ## Messages
 
