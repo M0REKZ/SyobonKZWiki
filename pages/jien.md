@@ -22,11 +22,11 @@ filename: jien.md
   </tr>
   <tr>
     <td>First appearance</td>
-    <td>Syobon Action</td>
+    <td>Shobon Action</td>
   </tr>
 </table>
 
-Syobon Action enemy, appears since the original game.
+Shobon Action enemy, appears since the original game.
 
 It is based on [Jisaku Jien](https://web.archive.org/web/20260503051045/https://namelessrumia.heliohost.org/w/doku.php?id=jisaku_jien) 2ch character, which has Molalla's face
 
@@ -43,12 +43,12 @@ When the normal or super jien touch a mushroom, they become the big one
 |State/Type|Sprite|
 |-----|------|
 |Normal |![](../images/ball.png)|
-|Normal (Super Syobon)|![](../images/ball_super_syobon.png)|
+|Normal (Super Shobon)|![](../images/ball_super_syobon.png)|
 |Shell|![](../images/shell_ball.png)|
-|Shell (Super Syobon)|![](../images/shell_ball_super_syobon.png)|
+|Shell (Super Shobon)|![](../images/shell_ball_super_syobon.png)|
 |Shell (Stomped)|![](../images/shell.png)|
 |Super Jien|![](../images/spiky_ball.png)|
-|Super Jien (Super Syobon)|![](../images/spiky_ball_super_syobon.gif)|
+|Super Jien (Super Shobon)|![](../images/spiky_ball_super_syobon.gif)|
 |Rocket|![](../images/ball_rocket.png)|
 |Big|![](../images/big_ball.png)|
 
