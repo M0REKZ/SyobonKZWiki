@@ -16,13 +16,13 @@ filename: evil_cloud.md
   </tr>
   <tr>
     <td>First appearance</td>
-    <td>Syobon Action</td>
+    <td>Shobon Action</td>
   </tr>
 </table>
 
-Syobon Action enemy, appears since the original game.
+Shobon Action enemy, appears since the original game.
 
-Unlike other Syobon Action characters, this one does not seem to be based on a 2ch character.
+Unlike other Shobon Action characters, this one does not seem to be based on a 2ch character.
 
 In code comments it is just named "Cloud", "Cloud Enemy" or "Stealth cloud", but people also just call it "Evil Cloud"
 
@@ -40,4 +40,4 @@ In code comments it is just named "Cloud", "Cloud Enemy" or "Stealth cloud", but
 
 ## Other Notes
 
-* This enemy is missing in Super Syobon
+* This enemy is missing in Super Shobon
