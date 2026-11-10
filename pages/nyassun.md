@@ -18,11 +18,11 @@ filename: nyassun.md
   </tr>
   <tr>
     <td>First appearance</td>
-    <td>Syobon Action</td>
+    <td>Shobon Action</td>
   </tr>
 </table>
 
-Syobon Action enemy, appears since the original game.
+Shobon Action enemy, appears since the original game.
 
 The exact origin of this character is unsure, but in code comments it's named "Nyassun" (ニャッスン), which seems to be a mix of the name of Super Mario enemy "Dossun" (ドッスン) with "Nya" (ニャ, a cat "Meow") at the start, since this enemy is a cat counterpart of him.
 
