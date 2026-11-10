@@ -8,7 +8,7 @@ filename: index.md
 
 [SyobonKZ Homepage](https://m0rekz.github.io/SyobonKZ/)
 
-## Syobon Action games:
+## Shobon Action games:
 
 * [Shobon Action]()
 * [Super Shobon]()
