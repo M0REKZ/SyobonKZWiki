@@ -18,19 +18,19 @@ filename: kukkuru.md
   </tr>
   <tr>
     <td>First appearance</td>
-    <td>Syobon Action</td>
+    <td>Shobon Action</td>
   </tr>
 </table>
 
-Syobon Action enemy, appears since the original game.
+Shobon Action enemy, appears since the original game.
 
-It is based on [Kukkuru](https://web.archive.org/web/20260623214013/https://namelessrumia.heliohost.org/w/doku.php?id=kukkuru) 2ch character, which fights other 2ch characters and then take them to Area 51, which may explain why in Syobon Action Level 1-4 there is a pipe with number 51 in it
+It is based on [Kukkuru](https://web.archive.org/web/20260623214013/https://namelessrumia.heliohost.org/w/doku.php?id=kukkuru) 2ch character, which fights other 2ch characters and then take them to Area 51, which may explain why in Shobon Action Level 1-4 there is a pipe with number 51 in it
 
 In code comments it's named "Kukkuru"
 
 ## Behavior
 
-He does not move, but will kill syobon when touched.
+He does not move, but will kill Shobon when touched.
 
 ## Sprites
 
@@ -44,4 +44,4 @@ He does not move, but will kill syobon when touched.
 
 ## Other Notes
 
-* This enemy is missing in Super Syobon
+* This enemy is missing in Super Shobon
